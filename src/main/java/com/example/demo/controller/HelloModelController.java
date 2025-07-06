@@ -16,4 +16,6 @@ public class HelloModelController {
         // 戻り値は「ビュー名」を返す
         return "helloThymeleaf";
     }
+
+    // mainブランチ
 }
